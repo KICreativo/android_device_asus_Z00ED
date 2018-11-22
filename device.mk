@@ -15,7 +15,7 @@
 #
 
 # call the proprietary setup
-$(call inherit-product-if-exists, vendor/asus/Z00ED/Z00ED-vendor.mk)
+$(call inherit-product-if-exists, vendor/asus/Z00xD/Z00xD-vendor.mk)
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
