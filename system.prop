@@ -1,0 +1,5 @@
+# Carrier
+ro.product.carrier=US-ASUS_Z00ED-WW_Z00ED
+
+# Display
+ro.sf.lcd_density=320

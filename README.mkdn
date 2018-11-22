@@ -1,0 +1,5 @@
+Device Tree for Asus Zenfone 2 Laser Z00E/Z00ED (720p)
+===========================================
+
+
+**Copyright 2018 - The KI.Lab**
